@@ -38,3 +38,7 @@ main/build.gradle.model.bak.new.new
 #freeline
 freeline/
 freeline.py
+
+#react-native
+node_modules/
+npm-debug.log
